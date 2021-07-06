@@ -1,3 +1,7 @@
+/*
+This program uses the absolute basics of Java including, mainly, the println statement
+*/
+
 public class PlantingATree {
   public static void main(String[] args) {
     // Here I will introduce myself and plant a tree to the screen
