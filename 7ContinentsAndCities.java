@@ -35,5 +35,5 @@ public class Continents {
         System.out.println("Undefined continent!");
         break;
     }
-	}
+  }
 }
