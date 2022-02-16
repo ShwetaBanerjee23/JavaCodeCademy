@@ -32,5 +32,5 @@ public class CarLoan {
       System.out.println("The monthly payment is: " + monthlyPayment);
 
     }
-	}
+  }
 }
