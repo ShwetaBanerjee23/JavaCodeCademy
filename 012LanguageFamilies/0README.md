@@ -1,4 +1,4 @@
-***Language Families***
+***Language Families:***
 This program builds a model to track inherited traits across language families. This project focuses on something that often varies between language families: word order - where the subject, verb, and object would go in a sentence.
 
 There are three files:
