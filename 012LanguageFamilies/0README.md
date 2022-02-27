@@ -1,4 +1,4 @@
-/* 
+***Language Families***
 This program builds a model to track inherited traits across language families. This project focuses on something that often varies between language families: word order - where the subject, verb, and object would go in a sentence.
 
 There are three files:
@@ -7,4 +7,3 @@ Mayan.java: for Mayan, a child class of Language modeled after the Mayan languag
 SinoTibetan.java: for SinoTibentan, a child class of Language modeled after the Sino-Tibetan language family
 
 Concepts used: Inheritance and Polymorphism
-*/
