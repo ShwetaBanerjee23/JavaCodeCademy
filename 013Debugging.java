@@ -1,5 +1,5 @@
 /*
-This program had several syntax errors. I modified it to remove the syntax errors.
+This program had many syntax errors. I modified it to remove the syntax errors.
 
 Concepts used: Debugging
 */
